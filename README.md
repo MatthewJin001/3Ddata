@@ -1,6 +1,17 @@
-# 3Ddata
-Data for the paper “Hand-eye Parameter Estimation Based on 3D Observation of A Single Marker”.
+## Overview
+The data in this repository is for the paper “Hand-eye Parameter Estimation Based on 3D Observation of A Single Marker”. It includes four sets of hand eye calibration data, i.e., single-marker data and pattern data in eye-in-hand configuration and in eye-to-base configuration. Please refer to the reference article for details.
 
+## Setup
+
+### eye-in-hand
+``camera``: Intel Realsense D415;
+``robot``: Jaka Zu7;
+``target``: 4 × 6 ChArUco pattern or and 1 × 1 ChArUco
+
+### eye-in-hand
+``camera``: RVC-X mini
+``robot``: Jaka Zu7
+``target``: 4 × 6 ChArUco pattern or and 1 × 1 ChArUco
 
 # The hand-eye calibration data
 This data corresponds to the Case 1 in the following reference.
