@@ -28,8 +28,7 @@ The data in this repository is for the paper “Hand-eye Parameter Estimation Ba
 ## File
 Each dataset contains four folders as follows.
 ``image``: images captured by the camera.
-![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/ex1.png)
-<img src="datasetPic/ex1.png" width="30%">
+<img src="datasetPic/ex1.png" width="50%">
 
 ``imageUndistort``:  Undistorted images with recognized corners
 ![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/1_charuco_undistort.png)
