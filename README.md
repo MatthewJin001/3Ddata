@@ -12,7 +12,7 @@ The data in this repository is for the paper “Hand-eye Parameter Estimation Ba
 
 ![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/eyeinhand.png)
 
-**_Figure_**:The eye-in-hand configuration using the grid pattern (a), using the single marker (b), and the camera poses relative to the pattern (c).
+**_Figure_**: The eye-in-hand configuration using the grid pattern (a), using the single marker (b), and the camera poses relative to the pattern (c).
 
 ### eye-in-hand
 ``camera``: RVC-X mini
@@ -23,10 +23,11 @@ The data in this repository is for the paper “Hand-eye Parameter Estimation Ba
 
 ![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/eyetohand.png)
 
-**_Figure_**:The eye-to-base configuration using the grid pattern (a), using the single marker (b), and the pattern poses relative to the camera (c).
+**_Figure_**: The eye-to-base configuration using the grid pattern (a), using the single marker (b), and the pattern poses relative to the camera (c).
 
 ## File
 Each dataset contains four folders as follows.
+
 *``image``: images captured by the camera.
 <img src="datasetPic/ex1.png" width="50%">
 
@@ -34,7 +35,7 @@ Each dataset contains four folders as follows.
 <img src="datasetPic/1_charuco_undistort.png" width="50%">
 
 *``pc``: Point clouds captured by 3D cameras
-<img src="datasetPic/PC.png" width="50%">
+<img src="datasetPic/PC.PNG" width="50%">
 
 *``pointCode``: Number and 3D position (mm) of ArUcos
 ```
