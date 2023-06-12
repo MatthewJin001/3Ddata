@@ -1,5 +1,5 @@
 ## Overview
-The data in this repository is for the paper “Hand-eye Parameter Estimation Based on 3D Observation of A Single Marker”. It includes four sets of hand eye calibration data, i.e., single-marker data and pattern data in eye-in-hand configuration and in eye-to-base configuration. Please refer to the reference article for details.
+The data in this repository is for the paper “Hand-eye Parameter Estimation Based on 3D Observation of A Single Marker”. It includes four sets of hand-eye calibration data, i.e., single-marker data and pattern data in eye-in-hand and eye-to-base configurations. Please refer to the reference article for details.
 
 ## Setup
 
@@ -62,7 +62,7 @@ Each dataset contains four folders as follows.
 Jin, G., Yu, X., Chen, Y., Li, J. (2023), Hand-eye Parameter Estimation Based on 3D Observation of A Single Marker, submitted to IEEE Trans. Instrum. Meas.
          
 ## Code
-The  associated  codes can be downloaded on https://github.com/MatthewJin001/Single3D
+The  associated  codes can be downloaded at https://github.com/MatthewJin001/Single3D
 
 ## Contact
 
