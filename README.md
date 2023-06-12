@@ -29,12 +29,15 @@ The data in this repository is for the paper “Hand-eye Parameter Estimation Ba
 Each dataset contains four folders as follows.
 
 *``image``: images captured by the camera.
+
 <img src="datasetPic/ex1.png" width="50%">
 
 *``imageUndistort``:  Undistorted images with recognized corners
+
 <img src="datasetPic/1_charuco_undistort.png" width="50%">
 
 *``pc``: Point clouds captured by 3D cameras
+
 <img src="datasetPic/PC.PNG" width="50%">
 
 *``pointCode``: Number and 3D position (mm) of ArUcos
