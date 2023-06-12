@@ -17,12 +17,9 @@ There are 224 images along with the poses from robotic base to the end-effector.
 The distance between two checkerboard squares in row or column is 30mm.
 
 # Reference
-Wu, J., Sun, Y., Wang, M., Liu*, M. (2019) 
-         Hand-eye Calibration: 4D Procrustes Analysis Approach.
-         IEEE Trans. Instrum. Meas.
+Jin, G., Yu, X., Chen, Y., Li, J. (2023), Hand-eye Parameter Estimation Based on 3D Observation of A Single Marker, submitted to IEEE Trans. Instrum. Meas.
          
 # Code
-The MATLAB codes can be downloaded on https://github.com/zarathustr/hand_eye_SO4
+The  associated  codes can be downloaded on https://github.com/MatthewJin001/Single3D
 
-# Video
-https://youtu.be/vr78pEbBn2w
+
