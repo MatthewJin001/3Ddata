@@ -36,7 +36,7 @@ Each dataset contains four folders as follows.
 
 <img src="datasetPic/1_charuco_undistort.png" width="50%">
 
-* ``pc``: Point clouds captured by 3D cameras;
+* ``pc``: Point clouds captured by 3D cameras （Note that the point cloud data is large and will be uploaded to the cloud in the near future.）;
 
 <img src="datasetPic/PC.PNG" width="50%">
 
