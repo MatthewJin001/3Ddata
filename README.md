@@ -5,13 +5,25 @@ The data in this repository is for the paper “Hand-eye Parameter Estimation Ba
 
 ### eye-in-hand
 ``camera``: Intel Realsense D415;
+
 ``robot``: Jaka Zu7;
+
 ``target``: 4 × 6 ChArUco pattern or and 1 × 1 ChArUco
+
+![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/eyeinhand.png)
+
+**_Figure_**:The eye-in-hand configuration using the grid pattern (a), using the single marker (b), and the camera poses relative to the pattern (c).
 
 ### eye-in-hand
 ``camera``: RVC-X mini
+
 ``robot``: Jaka Zu7
+
 ``target``: 4 × 6 ChArUco pattern or and 1 × 1 ChArUco
+
+![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/eyetohand.png)
+
+**_Figure_**:The eye-to-base configuration using the grid pattern (a), using the single marker (b), and the pattern poses relative to the camera (c).
 
 # The hand-eye calibration data
 This data corresponds to the Case 1 in the following reference.
