@@ -31,7 +31,7 @@ Each dataset contains four folders as follows.
 <img src="datasetPic/ex1.png" width="50%">
 
 ``imageUndistort``:  Undistorted images with recognized corners
-![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/1_charuco_undistort.png)
+<img src="datasetPic/1_charuco_undistort.png" width="50%">
 
 ``pc``: Point clouds captured by 3D cameras
 ![mainFig](https://github.com/MatthewJin001/3Ddata/blob/main/datasetPic/PC.PNG)
